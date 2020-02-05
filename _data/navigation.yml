@@ -7,9 +7,10 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
+  - title: About Us
+    collection: Overview of NPTD's work
+    collection: Contact Information
+  - title: Our Population
     url: /faq/
   - title: Privacy Statement
     url: /privacy-statement/
